@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-image: url('../images/background_images.jpg');
+    background-position: bottom;
+    height: 75vh;
+    background-size: cover;
+}
+
+h1{
+    color:greenyellow;
+    text-align: center;
+    font-size: 75px;
+    word-spacing: 10px;
+    letter-spacing: 25px;
+    font-family: cursive;
+    padding-top: 50px;
+}
